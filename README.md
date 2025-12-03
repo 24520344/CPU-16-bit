@@ -1,1 +1,1 @@
-Phần mềm Assembler biên dịch mã Assembly thành mã máy và xuất kết quả thành tệp program.hex ở dạng mã thập lục phân
+Trình biên dịch Assembler viết bằng C++, chuyển đổi mã Assembly từ tệp nguồn 'input.asm' thành mã máy và xuất kết quả dưới định dạng tệp 'program.hex' ở dạng mã thập lục phân.
