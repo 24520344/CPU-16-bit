@@ -32,7 +32,7 @@
 
 ## 🛠️ Công cụ sử dụng
 - **Lập trình:** C++ (Viết Assembler).
-- **Thiết kế phần cứng:** Quartus II 13.0sp1 (Dựa trên định dạng file .bdf, .vwf).
+- **Thiết kế phần cứng:** Quartus II 13.0sp1 (Dựa trên định dạng file .bdf, .vwf, .v, ...).
 - **Mô phỏng:** University Program VWF.
 - **Thiết kế slide:** Canva, PowerPoint.
 
