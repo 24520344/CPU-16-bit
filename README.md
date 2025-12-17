@@ -23,6 +23,7 @@
   - Các tệp mô phỏng (`.vwf`): Các tệp dạng sóng dùng để kiểm tra hoạt động của từng thành phần và toàn bộ CPU.
 
 - **`Testbenches:`**
+  - `fibonacci.hex`: Chương trình tính số Fibonacci thứ 23.
   - `program1.hex`: Chứa các lệnh số học (RRR).
   - `program2.hex`: Chứa các lệnh thao tác với bộ nhớ dữ liệu (DMem) và giá trị tức thời (Imm) (RRI + RI).
   - `program3.hex`: Chứa các lệnh giả và lệnh rẽ nhánh (beq/ jnz).
@@ -35,6 +36,6 @@
 - **Thiết kế slide:** Canva, PowerPoint.
 
 ## 📊 Hiệu năng vi xử lý
-
+<img width="738" height="722" alt="CPU 16-bit Performance Report" src="https://github.com/user-attachments/assets/b0d4a231-acdc-4f1a-9fcf-bf850cc6eb4a" />
 
 *Thực hiện bởi Nhóm 1 - CE118.Q11.VMTN*
