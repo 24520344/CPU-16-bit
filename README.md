@@ -28,6 +28,7 @@
   - `program2.hex`: Chứa các lệnh thao tác với bộ nhớ dữ liệu (DMem) và giá trị tức thời (Imm) (RRI + RI).
   - `program3.hex`: Chứa các lệnh giả và lệnh rẽ nhánh (beq/ jnz).
   - `program4.hex`: Chứa chương trình thao tác với I/O Controller.
+  - Các tệp `.txt` chứa chương trình ASM của các testbench tương ứng.
 
 ## 🛠️ Công cụ sử dụng
 - **Lập trình:** C++ (Viết Assembler).
