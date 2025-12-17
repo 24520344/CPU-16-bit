@@ -1,0 +1,8 @@
+li   r1, 67
+lw   r2, 32
+subi r2, r2, 30
+sra  r3, r2
+sub  r2, r2, r3
+sw   r2, 33
+slt  r2, r2, r0
+beq  r2, r0, 0

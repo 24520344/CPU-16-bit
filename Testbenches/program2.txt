@@ -1,0 +1,10 @@
+li   r1, 20
+addi r1, r1, 5
+sw   r1, 1
+li   r2, 10
+subi r2, r2, 9
+sw   r2, 2
+slt  r1, r1, r2
+sw   r1, 3
+lw   r1, 1
+lw   r3, 2

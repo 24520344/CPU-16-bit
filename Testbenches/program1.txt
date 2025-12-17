@@ -1,0 +1,20 @@
+li   r1, 18
+li   r2, 20
+li   r3, 36
+li   r4, 40
+add  r5, r1, r2
+inc  r6, r1
+sub  r4, r3, r4
+dec  r5, r1
+and  r6, r1, r2
+or   r4, r1, r2
+nand r5, r1, r2
+xor  r6, r1, r1
+shfl r5, r1
+shfr r6, r1
+sll  r4, r1
+srr  r5, r1
+sra  r6, r1
+mul  r5, r1, r2
+slt  r6, r1, r2
+sgt  r4, r1, r0
