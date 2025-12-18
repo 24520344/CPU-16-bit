@@ -17,7 +17,7 @@
 
 - **`Design Files:`**
   - Các mạch thiết kế (`.bdf`/ `.bsf`): Tập hợp các tệp thiết kế mạch nguyên lý và sơ đồ khối các thành phần của CPU 16-bit.
-  - `clk.sdc`: Tệp ràng buộc thời gian, khởi tạo clock 50.0 MHz để kiểm thử thông số mạch.
+  - `clk.sdc`: Tệp ràng buộc thời gian, khởi tạo clock 14.7 MHz để kiểm thử thông số mạch và ép xung.
 
 - **`Simulation:`**
   - Các tệp mô phỏng (`.vwf`): Các tệp dạng sóng dùng để kiểm tra hoạt động của từng thành phần và toàn bộ CPU.
@@ -37,6 +37,6 @@
 - **Thiết kế slide:** Canva.
 
 ## 📊 Hiệu năng vi xử lý
-<img width="738" height="722" alt="CPU 16-bit Performance Report" src="https://github.com/user-attachments/assets/b0d4a231-acdc-4f1a-9fcf-bf850cc6eb4a" />
+<img width="735" height="722" alt="CPU Performance Report" src="https://github.com/user-attachments/assets/3eff75da-5490-4ee6-a6e7-64623a5ae525" />
 
 *Thực hiện bởi Nhóm 1 - CE118.Q11.VMTN*
